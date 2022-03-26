@@ -1,2 +1,2 @@
-# seleniu_project
+# selenium_project
 Tests with selenium &amp; pytest
